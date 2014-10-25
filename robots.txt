@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://atp100.github.io/sitemap.xml 
